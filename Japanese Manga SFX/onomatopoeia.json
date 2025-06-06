@@ -1,0 +1,358 @@
+{
+  "\u30e9\u30e9\u30e9": [
+    {
+      "english": "*la di da* *la la la*",
+      "details": "SFX for skipping and humming a happy tune."
+    }
+  ],
+  "\u30e9\u30d6\u30e9\u30d6": [
+    {
+      "english": "*romantic* *love love*",
+      "details": "SFX that literally derives from the Japanese pronunciation of \"love-love\" as \"rah-bu rah-bu.\""
+    }
+  ],
+  "\u30e9\u30af\u30e9\u30af": [
+    {
+      "english": "*too easy*",
+      "details": "SFX derived from the adjective \"easy\" or \u300c\u697d\u306a\u300d."
+    }
+  ],
+  "\u30e9\u30f3\u30c3": [
+    {
+      "english": "*beam* *intensely*",
+      "details": "SFX for sudden attention in one's gaze, like snapping to attention dramatically (can be used for comedic effect)"
+    }
+  ],
+  "\u30e9\u30f3\u30e9\u30f3": [
+    {
+      "english": "*la la*",
+      "details": "SFX for skipping and humming a happy tune."
+    },
+    {
+      "english": "*intense* *fiery*",
+      "details": "SFX for an eye expression, for intense, fiery eyes."
+    }
+  ],
+  "\u30e9\u30e9\u30ea": [
+    {
+      "english": "*ching ching* *cha-ching ching*",
+      "details": "SFX for a light tinkling, ringing, bell-like, chime-like sound. Can be mechanical or digital, like from a video game."
+    }
+  ],
+  "\u30ec\u30ed\u30ec\u30ed": [
+    {
+      "english": "*bleh bleh* *roll roll*",
+      "details": "(1) Rolling something with/on the tongue"
+    }
+  ],
+  "\u30ef": [
+    {
+      "english": "*wow!* *ack!* *whoa!*",
+      "details": null
+    },
+    {
+      "english": "*boo!*",
+      "details": null
+    },
+    {
+      "english": "*ack!*",
+      "details": null
+    }
+  ],
+  "\u30ef\u30c3": [
+    {
+      "english": "*wah!* *yay!* *yeeahh!* *cheer* *woot!*",
+      "details": "SFX for a cheer, or a happy atmosphere."
+    }
+  ],
+  "\u30ef\u30fc": [
+    {
+      "english": "*roar*",
+      "details": "(A crowd's) excited roar. See also *wai wai* and *wara wara*"
+    },
+    {
+      "english": "*wow*",
+      "details": null
+    },
+    {
+      "english": "*yeaahh* *cheer* *applause*",
+      "details": null
+    },
+    {
+      "english": "*waaah*",
+      "details": "SFX for cheering or SFX for cry of dismay or despair."
+    }
+  ],
+  "\u30ef\u30fc\u30c3": [
+    {
+      "english": "*wow* *yay* *delight*",
+      "details": null
+    }
+  ],
+  "\u30ef\u30fc\u30a4": [
+    {
+      "english": "*yay* *woohoo* *yes* *yeah*",
+      "details": "Positive cheering, expression of cheerfulness or happiness."
+    }
+  ],
+  "\u30ef\u30fc\u30f3\u30c3": [
+    {
+      "english": "*bawling* *waahh*",
+      "details": "SFX for a long, wailing cry of despair"
+    },
+    {
+      "english": "*waahh* *grrr*",
+      "details": "SFX for a loud cry of outrage or unhappiness with something"
+    }
+  ],
+  "\u30ef\u30fc\u30f3\u30ef\u30fc\u30f3": [
+    {
+      "english": "*waah waah* *booh hoo* *bawling*",
+      "details": "SFX for crying loudly and hysterically."
+    }
+  ],
+  "\u30ef\u30fc\u30ef\u30fc": [
+    {
+      "english": "*roar*",
+      "details": "(A crowd's) excited roar. See also *wai wai* and *wara wara*"
+    },
+    {
+      "english": "*chatter* *rustle*",
+      "details": "SFX for background noise of pedestrians on the street."
+    }
+  ],
+  "\u30ef\u30a2": [
+    {
+      "english": "*wow*",
+      "details": null
+    },
+    {
+      "english": "*roar* *yaahh!*",
+      "details": "Like the war cries of soldiers in battle, or cry of protest."
+    },
+    {
+      "english": "*cheer* *applause*",
+      "details": null
+    }
+  ],
+  "\u30ef\u30c3\u30d5\u30f3": [
+    {
+      "english": "*grunt*",
+      "details": "Light SFX...strange grunt."
+    }
+  ],
+  "\u30ef\u30d5": [
+    {
+      "english": "*grunt*",
+      "details": "Light SFX...strange grunt"
+    },
+    {
+      "english": "*woof*",
+      "details": "SFX for dog \"woof-ing\", see also *Wafu wafu*."
+    }
+  ],
+  "\u30ef\u30d5\u30ef\u30d5": [
+    {
+      "english": "*grunt grunt* *mumble mumble*",
+      "details": "Light SFX...strange grunt"
+    },
+    {
+      "english": "*woof woof*",
+      "details": "SFX for dog \"woof-ing\", see also *Wafu*."
+    }
+  ],
+  "\u30ef\u30d5\u30fc\u30f3": [
+    {
+      "english": "*whine*",
+      "details": "High-pitched, sad whine of a dog."
+    }
+  ],
+  "\u30ef\u30cf\u30cf": [
+    {
+      "english": "*hahaha* *bwahaha* *ahaha*",
+      "details": "Full-on, loud laughter. See also *hahaha* (\u30cf\u30cf\u30cf)."
+    }
+  ],
+  "\u30ef\u30a4": [
+    {
+      "english": "*yay!* *delight*",
+      "details": "Feminine exclamation of delight, spoken by a character."
+    }
+  ],
+  "\u30ef\u30a4\u30ef\u30a4": [
+    {
+      "english": "*chatter chatter*",
+      "details": "To explain lively action/noise, like *Gaya gaya*"
+    }
+  ],
+  "\u30ef\u30af": [
+    {
+      "english": "*excitement* *happy*",
+      "details": "Cute anticipation."
+    }
+  ],
+  "\u30ef\u30af\u30ef\u30af": [
+    {
+      "english": "*excited* *nervous* *trembling*",
+      "details": "Happy, cute anticipation. See also *baku baku*."
+    }
+  ],
+  "\u30ef\u30f3\uff01": [
+    {
+      "english": "*woof!*",
+      "details": "SFX for the call of a dog or wolf."
+    }
+  ],
+  "\u30ef\u30f3\u30ef\u30f3": [
+    {
+      "english": "*bow-wow* *woof woof* *wuff wuff* *ruff ruff*",
+      "details": "SFX for the sound of a dog calling."
+    }
+  ],
+  "\u30ef\u30ca\u30ef\u30ca": [
+    {
+      "english": "*tremble tremble* *shake shake*",
+      "details": "Trembling from fear or anger; trembling all over."
+    }
+  ],
+  "\u30ef\u30e9\u30ef\u30e9": [
+    {
+      "english": "*chatter chatter*",
+      "details": "Crowded people, usually small kids. See also *waa* and *wai wai*."
+    }
+  ],
+  "\u30ef\u30b5\u30ef\u30b5": [
+    {
+      "english": "*rustle rustle*",
+      "details": null
+    }
+  ],
+  "\u30ef\u30c3\u30b7": [
+    {
+      "english": "*one-two* *one-and-a-two* *one-two-three* *hee haa* *huff huff*",
+      "details": "SFX for the sound one makes while motivating oneself to use physical effort or to exert oneself physically. Ex: Counting out \"one-two-three, and a one-two-three\" while doing jumping jacks."
+    }
+  ],
+  "\u30ef\u30bf\u30ef\u30bf": [
+    {
+      "english": "*panic*",
+      "details": "Moving busily"
+    },
+    {
+      "english": "*flap flap*",
+      "details": "SFX for arms flailing around, trying to cover a mistake."
+    }
+  ],
+  "\u30ef\u30ef": [
+    {
+      "english": "*whoa*",
+      "details": "In a \"what the heck\" way."
+    }
+  ],
+  "\u30ef\u30b6\u30ef\u30b6": [
+    {
+      "english": "*expressly* *intentionally*",
+      "details": "To go through the trouble of doing something."
+    }
+  ],
+  "\u30f3\u30c3": [
+    {
+      "english": "*grunt*",
+      "details": "As of surprise, effort, sleepiness, pain, or passion. Usually in context of exerting physical effort."
+    }
+  ],
+  "\u30f3\uff1f": [
+    {
+      "english": "*hey?* *what?* *hm?* *hmm?*",
+      "details": "Grunt, usually coming out in the form of a question."
+    }
+  ],
+  "\u30f3": [
+    {
+      "english": "*uhn*",
+      "details": null
+    },
+    {
+      "english": "*ughn*",
+      "details": null
+    }
+  ],
+  "\u30f3\u30dc\u30fc\u30c3": [
+    {
+      "english": "*spaced out* *daydreaming* *dazed*",
+      "details": "Kind of a slow reaction state, when one is very tired or groggy from lack of sleep or exhaustion. (Even the SFX is exhausted with the \"n\" sound before the *bo-* SFX.) See also *bo-*."
+    }
+  ],
+  "\u30f3\u30c1\u30e5": [
+    {
+      "english": "*kiss*",
+      "details": "See also *buchu*, *chu*, and *uchu*."
+    }
+  ],
+  "\u30f3\u30b4\u30fc\u30f3\u30ac\u30fc": [
+    {
+      "english": "*hrrm mrmm* *mph mmm*",
+      "details": "SFX for unintelligible muttering or murmuring sounds, such as the sounds made when one is tossing and turning in one's sleep."
+    }
+  ],
+  "\u30f3\u30af": [
+    {
+      "english": "*sniff* *inhale*",
+      "details": "See also *funka*, *hunka*, and *kunka*."
+    }
+  ],
+  "\u30f3\u30de\u30c3": [
+    {
+      "english": "*geh* *gah*",
+      "details": "SFX for shock."
+    }
+  ],
+  "\u30f3\u30e2": [
+    {
+      "english": "*munch* *mmm munch*",
+      "details": "SFX for eating with mouth closed."
+    }
+  ],
+  "\u30f3\u30f3": [
+    {
+      "english": "*grunt* *urgh* *ugh* *argh* *arg* *umph* *mmph* *nn*",
+      "details": "SFX for a grunt of effort, stress, or pain"
+    },
+    {
+      "english": "*hm?*",
+      "details": "Can be used as a question \u300c\u3093\u3093\uff1f\u300d"
+    }
+  ],
+  "\u30f3\u30cc\u30fc": [
+    {
+      "english": "*menacing* *scary* *rawr*",
+      "details": null
+    }
+  ],
+  "\u30f3\u30b7\u30e7": [
+    {
+      "english": "*grunt*",
+      "details": null
+    },
+    {
+      "english": "oof! umph!",
+      "details": null
+    }
+  ],
+  "\u30f3\u30c3\u30b7\u30e7": [
+    {
+      "english": "*grunt*",
+      "details": "Sound made when exerting physical effort."
+    }
+  ],
+  "\u30f3\u30b7\u30e7\u30c3\u30c8": [
+    {
+      "english": "*effort*",
+      "details": "See also *nisho*, *unsho*, and *yoisho*"
+    },
+    {
+      "english": "oof! umph!",
+      "details": "Effort, strain."
+    }
+  ]
+}
